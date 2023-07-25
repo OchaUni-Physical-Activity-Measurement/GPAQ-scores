@@ -4,4 +4,5 @@ You can then obtain the number of minutes per week spend practicing moderate (MV
   
 To do so, you need to:
 * transpose the questionnaires into .csv files (see model provided)
+* put all the .csv files in the same folder
 * use the code provided on your transposed .csv files to obtain the energy expenditure over a week
