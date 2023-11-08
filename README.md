@@ -1,6 +1,10 @@
 # How to obtain MET-min/week using GPAQ scores
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10060406.svg)](https://doi.org/10.5281/zenodo.10060406)
+
+
+
 GPAQ questionnaires assess the physical activity (PA) behavior during work, displacements or hobbies.
 You can then obtain the number of minutes per week spend practicing moderate (MPA), vigorous (VPA), or no physical activity; then translate it into MET/min/week.  
   
