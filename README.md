@@ -13,5 +13,4 @@ You can then obtain the number of minutes per week spend practicing moderate (MP
   
 To do so, you need to:
 * transpose the questionnaires into .csv files and put them all in the same folder (see "sample")
-* use the code provided (**Scoring GPAQ.ipynb**) on your transposed .csv files to obtain the energy expenditure over a week (see results/). You have to precise the path of the folder where all the .csv are, and the path where you want to save the result
-
+* use the code provided (**Scoring GPAQ.ipynb**) on your transposed .csv files to obtain the energy expenditure over a week (see "results"). You can run the code as is if you keep the same path. 
