@@ -1,7 +1,10 @@
 # How to obtain MET-min/week using GPAQ scores
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10060406.svg)](https://doi.org/10.5281/zenodo.10060406)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10086826.svg)](https://doi.org/10.5281/zenodo.10086826)
+
 
 
 
