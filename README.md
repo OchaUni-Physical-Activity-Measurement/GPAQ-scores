@@ -11,7 +11,7 @@ GPAQ questionnaires assess the physical activity (PA) behavior during work, disp
 You can then obtain the number of minutes per week spend practicing moderate (MPA), vigorous (VPA), or no physical activity; then translate it into MET/min/week.  
   
 To do so, you need to:
-* transpose the paper/pdf/online questionnaires into .csv files, and put them all in the same folder (see exemple structure in "/sample")
-* use the code provided (**Scoring GPAQ.ipynb**) on your transposed .csv files to obtain the energy expenditure over a week (see "/results"). You can run the code as is if you keep the same path. 
+* transpose your paper/pdf/online questionnaires into .csv files, and put them all in the same folder (see exemple of file structure in ["/sample"](https://github.com/MatthieuGG/GPAQ-scores/tree/main/sample))
+* use the code provided (**Scoring GPAQ.ipynb**) on your transposed .csv files to obtain the energy expenditure over a week (see ["/results"](https://github.com/MatthieuGG/GPAQ-scores/tree/main/results)). You can run the code as is if you keep the same path. 
 
 We based our calculation on the [GPAQ guides](https://www.who.int/docs/default-source/ncds/ncd-surveillance/gpaq-analysis-guide.pdf) and [ONAPS recommandations](https://onaps.fr/wp-content/uploads/2020/10/Interpre%CC%81tation-GPAQ.pdf).
