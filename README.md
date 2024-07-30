@@ -16,3 +16,6 @@ To do so, you need to:
 * This notebook imports the data, check for conditions (duplicates, missing data, inconsistancy), and calculates the different values of PA, then saves the results.
 ---
 We based our calculation on the [GPAQ guides](https://www.who.int/docs/default-source/ncds/ncd-surveillance/gpaq-analysis-guide.pdf) and [ONAPS recommandations](https://onaps.fr/wp-content/uploads/2020/10/Interpre%CC%81tation-GPAQ.pdf).
+
+**To cite this work:**
+> Matthieu Gallou-Guyot. (2023). GPAQ-scoring. Zenodo. https://doi.org/10.5281/zenodo.10060405 
