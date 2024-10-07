@@ -20,3 +20,6 @@ We based our calculation on the [GPAQ guides](https://www.who.int/docs/default-s
 
 **To cite this work:**
 > Matthieu Gallou-Guyot. (2023). GPAQ-scores. Zenodo. https://doi.org/10.5281/zenodo.10060405  
+
+----
+**Note**: did a "git remote add upstream https://github.com/MatthieuGG/GPAQ-scores" to stay up-to-date of the original repo. <br> use "git pull --rebase upstream main" to get the new commits.
